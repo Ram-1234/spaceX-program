@@ -4,6 +4,7 @@
 }
 
 .filter-logo{
+    margin: 10px;
     margin-left: -50px;
 }
 
@@ -16,9 +17,9 @@ hr{
 }
 
 .filter-app{
-    width: max-content;
-    margin: 20px;
-    width: fit-content;
+    text-align: center;
+    margin: 10px;
+    max-width: fit-content;
     background-color: white;
     border: 1px solid white;
     border-radius: 10px;
@@ -26,12 +27,11 @@ hr{
 }
 
 button{
+    margin: 5px;
     font-size: 15px;
     padding: 5px;
-    text-align: center;
     color: black;
     border: white;
-    margin: 5px;
     border-radius: 5px;
     background-color: palegreen;
     -webkit-border-radius: 5px;
@@ -48,10 +48,7 @@ button:hover{
     -o-transform: scale(1.12);
 }
 
-.filter-app{
-    margin: 10px;
-    text-align: center;
-}
+
 
 
 .launch-year{
@@ -59,9 +56,6 @@ button:hover{
   font-size: 12px;
 }
 
-.filter-year{
-    margin: 5px;
-}
 
 .successfull-launch{
     padding: 5px;
@@ -73,7 +67,8 @@ button:hover{
 }
 
 .successfull-land{
-    margin-left: 15px;
+    padding: 5px;
+    margin: auto;
     width: max-content;
     height: max-content;
     /* margin: 10px; */
@@ -81,8 +76,8 @@ button:hover{
 }
 
 .button-info{
-    margin-left: 15px;
-    padding: 2px;
+    margin: auto;
+    padding: 5px;
     width: max-content;
     height: max-content;
 }
@@ -98,4 +93,9 @@ button:hover{
 input{
     border: white;
     text-align: center;
+}
+
+.button-info{
+    padding: 5px;
+    margin: auto;
 }

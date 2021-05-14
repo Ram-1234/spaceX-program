@@ -26,27 +26,30 @@ export default function Filter(props) {
                     < button>2007</ button>
                     </div>
                     <div className="button-info">
+                    < button>2008</ button>
                     < button>2009</ button>
+                    </div>
+                    <div className="button-info">
                     < button>2010</ button>
-                    </div>
-                    <div className="button-info">
                     < button>2011</ button>
+                    </div>
+                    <div className="button-info">
                     < button>2012</ button>
-                    </div>
-                    <div className="button-info">
                     < button>2013</ button>
+                    </div>
+                    <div className="button-info">
                     < button>2014</ button>
-                    </div>
-                    <div className="button-info">
                     < button>2015</ button>
+                    </div>
+                    <div className="button-info">
                     < button>2016</ button>
-                    </div>
-                    <div className="button-info">
                     < button>2017</ button>
-                    < button>2018</ button>
                     </div>
                     <div className="button-info">
+                    < button>2018</ button>
                     < button>2019</ button>
+                    </div>
+                    <div className="button-info">
                     < button>2020</ button>
                     </div>
                 </div>

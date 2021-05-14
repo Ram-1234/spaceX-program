@@ -10,8 +10,8 @@
     background-color: white;
     margin: 10px;
 
-    width: min-content;
-    height: min-content;
+    max-width: min-content;
+    max-height: min-content;
     /* width: max-content;
     height: max-content; */
     border: 1px solid white;
@@ -42,6 +42,6 @@
 }
 
 img{
-    width: 220px;
-    height: 270px;
+    width: 200px;
+    height: 280px;
 }
