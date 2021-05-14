@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+
+.all-launch{
+    background-color: white;
+    margin: 10px;
+
+    width: min-content;
+    height: min-content;
+    /* width: max-content;
+    height: max-content; */
+    border: 1px solid white;
+    border-radius: 10px; 
+}
+
+.all-launch:hover{
+    transform: scale(1.03);
+}
+
+.image-info{
+    margin: 10px;
+    border-radius: 0px;
+    background-color: gainsboro;
+    width: max-content;
+    height: max-content;
+}
+
+.lanch-details{
+   margin: 10px;
+   /* max-height: fit-content; */
+   width: fit-content;
+   border-radius: 5px;
+}
+
+.mission{
+    list-style-position: inside;
+}
+
+img{
+    width: 220px;
+    height: 270px;
+}
